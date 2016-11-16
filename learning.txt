@@ -1,0 +1,17 @@
+文件的操作：
+1.创建文件：touch filename(创建空文件)  vi filename(创建并进入文件)
+2.打开文件：vi filename ,gedit filename(使用gedit编辑器打开文件)
+3.编辑文件：
+           i insert
+           :W 保存
+           :q 退出
+
+文件夹操作：
+1.进入文件夹： cd path
+2.符号简介： / 系统根目录
+             ~ 当前用户根目录
+            .. 上一级目录 
+             pwd 查看当前目录
+
+
+
