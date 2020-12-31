@@ -18,6 +18,14 @@ pipeline {
           }
         }
 
+        stage('Check') {
+          steps {
+            sh '''echo "check"
+
+'''
+          }
+        }
+
       }
     }
 
